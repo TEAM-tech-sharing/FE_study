@@ -26,6 +26,7 @@ SOP라는 정책을 통해 보안에 위험하지 않도록
 ## 출처(Origin)
 
 다음 그림은 **URL**의 구성을 나타낸 것이다.
+
 ![](https://images.velog.io/images/yena1025/post/06af6918-1afd-4ee7-91ec-afb8f8a37092/%EC%B6%9C%EC%B2%98.png)
 
 URL은 앞에서부터 차례대로
@@ -214,9 +215,11 @@ Preflight 요청은
 
 1. HTTP 요청 메시지에 있는 Request Method에
    **OPTIONS 메서드**를 넣는다.
+
    <img src="https://images.velog.io/images/yena1025/post/2dd18009-f19e-41ec-b33b-10a4b89e4fde/preflight.png" width="500" />
 
 2. 그러면 요청이 2번 가게 된다.
+
    <img src="https://images.velog.io/images/yena1025/post/0ebe4533-eabe-46fe-85ef-1df44104c135/%EC%84%9C%EB%B2%84%EC%9A%94%EC%B2%AD.png" width="500" />
 
 1) Preflight 사전 요청: 실제 요청을 보내도 되는지 서버에게 물어보는 것
