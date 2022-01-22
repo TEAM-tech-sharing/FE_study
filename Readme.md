@@ -10,8 +10,7 @@
 | 4주차 | [동기, 비동기, 블로킹, 논블로킹 차이점](https://github.com/TEAM-tech-sharing/FE_study/blob/main/week4/%EB%8F%99%EA%B8%B0%2C%20%EB%B9%84%EB%8F%99%EA%B8%B0%2C%20%EB%B8%94%EB%A1%9C%ED%82%B9%2C%20%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md) | [Nuxt.js](https://github.com/TEAM-tech-sharing/FE_study/blob/main/week4/nuxt_%EA%B5%AC%EC%A1%B0_%ED%8C%8C%EC%95%85.md)  |  [이벤트 루프란?](https://velog.io/@yena1025/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85-%ED%81%B4%EB%A1%9C%EC%A0%80-%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8) | 
 | 5주차 | ❌ |[good code](https://github.com/TEAM-tech-sharing/FE_study/blob/main/week5/%EC%9D%BD%EA%B8%B0%EC%A2%8B%EC%9D%80_%EC%BD%94%EB%93%9C.md) |  [CORS에 대하여](https://github.com/TEAM-tech-sharing/FE_study/blob/main/week5/CORS%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md)  | 
 | 6주차|[React vs Vue](https://github.com/TEAM-tech-sharing/FE_study/blob/main/week6/React%20vs%20Vue.md)  | ❌ |  [호이스팅과 실행 컨텍스트(again)](https://github.com/TEAM-tech-sharing/FE_study/blob/main/week6/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%EA%B3%BC%20%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8(again).md)  | 
-
-
+| 7주차|[Flexbox로 만드는 레이아웃](https://velog.io/@ken1204/Flexbox%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83)  | [git merge and rebase]() |  [this에 대하여(again)](https://github.com/TEAM-tech-sharing/FE_study/blob/main/week7/this%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC(again).md)  | 
 
 
 
