@@ -1,4 +1,4 @@
-## CSS in JS
+## CSS in JS에 대해
 
 ### 탄생 배경
 css의 여러 문제점을 효율적으로 제어하기 위해 **CSS-in-CSS**, **CSS-in-JS**와 같은 방식이 등장.
