@@ -53,6 +53,10 @@ React Query는 이 컨셉을 이용해 **메모리 캐시**에도 적용합니�
 3. **stale** 상태
     data fetch 후 staleTime이 지난 data 일 때 상태
 
+<img src="https://user-images.githubusercontent.com/59330828/158585061-72b25acf-dc71-453e-bc94-5feb64c7d2eb.png" alt=""/>
+
+출처: [우아한 테크 세미나: React Query](https://www.youtube.com/watch?v=MArE6Hy371c)
+
 ### 기본 예제의 Caching, Synchronization 분석
 ```javascript
 function Example(){
