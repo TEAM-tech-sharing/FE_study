@@ -13,6 +13,6 @@
 | 7주차|[Flexbox로 만드는 레이아웃](https://velog.io/@ken1204/Flexbox%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83)  | [git merge and rebase]() |  [this에 대하여(again)](https://github.com/TEAM-tech-sharing/FE_study/blob/main/week7/this%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC(again).md)  | 
 | 8주차|[Intl.DateTimeFormat 생성자](https://succulent-action-5c0.notion.site/Intl-DateTimeFormat-552ac7e7d74e4f4cacca56eed60ab5f4)  | ❌ |  [애자일이란?](https://velog.io/@yena1025/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B4%EB%9E%80)  | 
 | 9주차|[웹 폰트 사용 가이드](https://velog.io/@ken1204/%EC%9B%B9-%ED%8F%B0%ED%8A%B8-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)  | [CSS-in-JS](https://github.com/TEAM-tech-sharing/FE_study/blob/main/week9/CSS-in-JS%EC%97%90%20%EB%8C%80%ED%95%B4.md) |  [flexbox 10가지 레이아웃](https://velog.io/@yena1025/flexbox-10%EA%B0%80%EC%A7%80-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-feat.-Naver)  | 
-| 10주차|[발표자료: 웹팩 이해하기.pdf](https://github.com/TEAM-tech-sharing/FE_study/files/8148457/default.pdf)  |  |  [Promise와 async await](https://github.com/TEAM-tech-sharing/FE_study/blob/main/week10/Promise%EC%99%80%20async%20await.md)  | 
+| 10주차|[발표자료: 웹팩 이해하기.pdf](https://github.com/TEAM-tech-sharing/FE_study/files/8148457/default.pdf)  | React-Query[https://github.com/TEAM-tech-sharing/FE_study/blob/main/week10/React-Query(1).md] |  [Promise와 async await](https://github.com/TEAM-tech-sharing/FE_study/blob/main/week10/Promise%EC%99%80%20async%20await.md)  | 
 
 
